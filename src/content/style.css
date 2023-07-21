@@ -1,0 +1,24 @@
+.content {
+  position: fixed;
+  top: 100px;
+  left: 100px;
+  background-color: #fa0a0a;
+  width: 200px;
+  height: 150px;
+}
+.btn-wrapper {
+  display: flex !important;
+  gap: 10px !important;
+}
+.content-btn {
+  padding: 5px !important;
+  font-size: 12px !important;
+  border-radius: 8px !important;
+  border: 1px solid transparent !important;
+  font-weight: 500 !important;
+  font-family: inherit !important;
+  background-color: #1a1a1a !important;
+  cursor: pointer !important;
+  transition: border-color 0.25s !important;
+  color: #fff !important;
+}
